@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Things I work on
+### Things I worked on
 [<img src="https://avatars2.githubusercontent.com/u/17027024?s=200&v=4" width="32" height="32" align="center"> **RBKmoney**](https://github.com/rbkmoney) — An open-source payment processing and e-wallets
 
 <!--
